@@ -1,8 +1,4 @@
 "patientid","offset","sex","age","finding","view","filename"
-"2","0","M","65","Pneumonia/Viral/COVID-19","PA","auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg"
-"2","3","M","65","Pneumonia/Viral/COVID-19","PA","auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg"
-"2","5","M","65","Pneumonia/Viral/COVID-19","PA","auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg"
-"2","6","M","65","Pneumonia/Viral/COVID-19","PA","auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg"
 "4","0","F","52","Pneumonia/Viral/COVID-19","PA","nejmc2001573_f1a.jpeg"
 "4","5","F","52","Pneumonia/Viral/COVID-19","PA","nejmc2001573_f1b.jpeg"
 "5","","","","Pneumonia","PA","ARDSSevere.png"
